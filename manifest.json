@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "firmwareUrl": "https://raw.githubusercontent.com/Deemedcoder/irrota/main/Final_DOOR.bin",
   "sha256": "52707665A41C313549AFAB02803DBBE3AFA2D60A64D07E17AD42066CB35A824C",
   "notes": "Initial OTA manifest for Final_DOOR.bin"
